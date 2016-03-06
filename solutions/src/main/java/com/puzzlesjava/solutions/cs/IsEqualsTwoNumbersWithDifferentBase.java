@@ -1,7 +1,7 @@
 package com.puzzlesjava.solutions.cs;
 
 /**
- * Is equals two positive numbers with different base. For example binary to hex.
+ * Is equals two positive numbers with different base? For example binary to hex.
  * @author apodkutin
  * TODO: comments
  */

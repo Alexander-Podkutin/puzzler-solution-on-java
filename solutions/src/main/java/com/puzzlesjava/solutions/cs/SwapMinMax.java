@@ -23,7 +23,7 @@ public class SwapMinMax {
 		array[minElementIndex] = array[minElementIndex] - array[maxElementIndex];
 		*/
 
-		/* Another way without third variable xor SWAP
+		/* Another way without third variable XOR swap
 		https://en.wikipedia.org/wiki/XOR_swap_algorithm
 		array[minElementIndex] = array[minElementIndex] ^ array[maxElementIndex];
 		array[maxElementIndex] = array[maxElementIndex] ^ array[minElementIndex];

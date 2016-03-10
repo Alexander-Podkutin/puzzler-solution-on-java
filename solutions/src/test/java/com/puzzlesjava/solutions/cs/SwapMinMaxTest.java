@@ -10,7 +10,7 @@ import static org.junit.Assert.*;
 public class SwapMinMaxTest {
 
 	@Test
-	public void testSwapMinMax() throws Exception {
+	public void swapMinMax() throws Exception {
 		int[] array = {2, 6, 4, 9};
 		SwapMinMax.swapMinMax(array);
 		assertEquals("In old min element index must be 9", 9, array[0]);

@@ -25,7 +25,7 @@ public class IsEqualsTwoNumbersWithDifferentBase {
 
 		int value = 0;
 
-		for (int i = number.length() -1; i >= 0; i--) {
+		for (int i = number.length() - 1; i >= 0; i--) {
 			int digit = digitToDecimalPresentation(number.charAt(i));
 			if(digit < 0 || digit >= base) {
 				return -1;

@@ -8,8 +8,10 @@ Examples of puzzles and their solution on Java.
     [Show solution][2]
 3. Are all characters in string unique?
     [Show solution][3]
-
+4. Check that one string is permutation of another.
+    [Show solution][4]
     
 [1]: https://github.com/Alexander-Podkutin/puzzles-solution-on-java/blob/master/solutions/src/main/java/com/puzzlesjava/solutions/cs/IsEqualsTwoNumbersWithDifferentBase.java
 [2]: https://github.com/Alexander-Podkutin/puzzles-solution-on-java/blob/master/solutions/src/main/java/com/puzzlesjava/solutions/cs/SwapMinMax.java
 [3]: https://github.com/Alexander-Podkutin/puzzles-solution-on-java/blob/master/solutions/src/main/java/com/puzzlesjava/solutions/cs/IsAllCharactersUnique.java
+[4]: https://github.com/Alexander-Podkutin/puzzles-solution-on-java/blob/master/solutions/src/main/java/com/puzzlesjava/solutions/cs/StringPermutation.java

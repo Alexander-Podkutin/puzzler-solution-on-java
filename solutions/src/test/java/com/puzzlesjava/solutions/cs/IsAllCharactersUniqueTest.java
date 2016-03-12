@@ -9,11 +9,11 @@ import static org.junit.Assert.*;
  */
 public class IsAllCharactersUniqueTest {
 
-	String TEST_STRING = "abfghtea";
+	String TEST_STRING = "abfghte";
 
 	@Test
 	public void isAllCharactersUnique() throws Exception {
-		assertEquals("String " + TEST_STRING + " has not unique characters", false,
+		assertEquals("String " + TEST_STRING + " has only unique characters", true,
 			IsAllCharactersUnique.isAllCharactersUnique(TEST_STRING));
 
 	}

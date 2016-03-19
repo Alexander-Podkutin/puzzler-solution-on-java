@@ -1,4 +1,4 @@
-package com.puzzlesjava.solutions.cs;
+package com.puzzlesjava.solutions.strings;
 
 /**
  * Is equals two positive numbers with different base? For example binary to hex.

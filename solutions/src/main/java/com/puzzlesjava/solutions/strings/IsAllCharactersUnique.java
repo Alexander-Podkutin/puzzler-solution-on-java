@@ -1,4 +1,4 @@
-package com.puzzlesjava.solutions.cs;
+package com.puzzlesjava.solutions.strings;
 
 /**
  * Are all characters in string unique?

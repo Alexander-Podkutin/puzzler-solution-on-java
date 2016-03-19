@@ -1,4 +1,4 @@
-package com.puzzlesjava.solutions.cs;
+package com.puzzlesjava.solutions.strings;
 
 import org.junit.Test;
 

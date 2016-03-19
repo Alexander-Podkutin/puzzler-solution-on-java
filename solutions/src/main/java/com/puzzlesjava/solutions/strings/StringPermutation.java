@@ -1,4 +1,4 @@
-package com.puzzlesjava.solutions.cs;
+package com.puzzlesjava.solutions.strings;
 
 /**
  * Check that one string is permutation of another.

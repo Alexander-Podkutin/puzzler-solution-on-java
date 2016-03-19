@@ -1,4 +1,4 @@
-package com.puzzlesjava.solutions.arrays;
+package com.puzzlesjava.solutions.strings;
 
 /**
  * Replace all spaces with '%20'.

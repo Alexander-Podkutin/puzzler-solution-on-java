@@ -1,6 +1,6 @@
-package com.puzzlesjava.solutions.arrays;
+package com.puzzlesjava.solutions.strings;
 
-import com.puzzlesjava.solutions.arrays.ReplaceSpacesWith20;
+import com.puzzlesjava.solutions.strings.ReplaceSpacesWith20;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

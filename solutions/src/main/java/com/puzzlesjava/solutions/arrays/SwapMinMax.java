@@ -1,4 +1,4 @@
-package com.puzzlesjava.solutions.strings;
+package com.puzzlesjava.solutions.arrays;
 
 /**
  * Swap min and max element of array.

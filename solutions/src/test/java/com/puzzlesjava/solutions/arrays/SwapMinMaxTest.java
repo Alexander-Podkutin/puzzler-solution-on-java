@@ -1,5 +1,6 @@
-package com.puzzlesjava.solutions.strings;
+package com.puzzlesjava.solutions.arrays;
 
+import com.puzzlesjava.solutions.arrays.SwapMinMax;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

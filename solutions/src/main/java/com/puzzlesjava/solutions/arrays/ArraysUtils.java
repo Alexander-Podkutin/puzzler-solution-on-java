@@ -9,7 +9,6 @@ import java.util.Random;
  */
 public class ArraysUtils {
 
-
 	public static void fillTwoDimensionalArray(int[][] twoDimArray) {
 
 		Random randomInt = new Random();

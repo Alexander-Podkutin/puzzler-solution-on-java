@@ -6,6 +6,8 @@ Examples of puzzles and their solution on Java.
 
 1. Swap min and max element of array.(Three swap examples, two without using third variable, XOR swap method)
     [Show solution][2]
+2. Rotate image by 90 degrees. Image represented by N x N matrix.
+     [Show solution][6]
     
 ##Strings
 
@@ -25,3 +27,4 @@ Examples of puzzles and their solution on Java.
 [3]: https://github.com/Alexander-Podkutin/puzzles-solution-on-java/blob/master/solutions/src/main/java/com/puzzlesjava/solutions/strings/IsAllCharactersUnique.java
 [4]: https://github.com/Alexander-Podkutin/puzzles-solution-on-java/blob/master/solutions/src/main/java/com/puzzlesjava/solutions/strings/StringPermutation.java
 [5]: https://github.com/Alexander-Podkutin/puzzles-solution-on-java/blob/master/solutions/src/main/java/com/puzzlesjava/solutions/strings/ReplaceSpacesWith20.java
+[6]: https://github.com/Alexander-Podkutin/puzzles-solution-on-java/blob/master/solutions/src/main/java/com/puzzlesjava/solutions/arrays/RotateMatrixImage.java

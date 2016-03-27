@@ -4,7 +4,6 @@ import java.util.Random;
 
 /**
  * Utility class for working with arrays.
- *
  * @author apodkutin
  */
 public class ArraysUtils {

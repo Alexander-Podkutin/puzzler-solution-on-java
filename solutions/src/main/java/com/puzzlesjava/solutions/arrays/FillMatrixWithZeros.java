@@ -3,8 +3,7 @@ package com.puzzlesjava.solutions.arrays;
 import java.util.Arrays;
 
 /**
- * Fill row and column with zeros if element is zero
- * .
+ * Fill row and column with zeros if element is zero.
  * @author apodkutin
  */
 public class FillMatrixWithZeros {

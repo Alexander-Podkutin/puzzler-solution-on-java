@@ -32,4 +32,4 @@ Examples of puzzles and their solution on Java.
 [5]: https://github.com/Alexander-Podkutin/puzzles-solution-on-java/blob/master/solutions/src/main/java/com/puzzlesjava/solutions/strings/ReplaceSpacesWith20.java
 [6]: https://github.com/Alexander-Podkutin/puzzles-solution-on-java/blob/master/solutions/src/main/java/com/puzzlesjava/solutions/arrays/RotateMatrixImage.java
 [7]: https://github.com/Alexander-Podkutin/puzzles-solution-on-java/blob/master/solutions/src/main/java/com/puzzlesjava/solutions/arrays/FillMatrixWithZeros.java
-{8}: https://github.com/Alexander-Podkutin/puzzles-solution-on-java/blob/master/solutions/src/main/java/com/puzzlesjava/solutions/strings/StringShift.java
+[8]: https://github.com/Alexander-Podkutin/puzzles-solution-on-java/blob/master/solutions/src/main/java/com/puzzlesjava/solutions/strings/StringShift.java

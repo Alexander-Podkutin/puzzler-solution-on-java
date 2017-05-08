@@ -1,8 +1,8 @@
-#puzzles-solution-on-java
+# puzzles-solution-on-java
 
 Examples of puzzles and their solution on Java.
 
-##Arrays
+## Arrays
 
 1. Swap min and max element of array.(Three swap examples, two without using third variable, XOR swap method)
     [Show solution][2]
@@ -11,7 +11,7 @@ Examples of puzzles and their solution on Java.
 3. Fill row and column with zeros if element is zero.
     [Show solution][7]
     
-##Strings
+## Strings
 
 1. Is equals two positive numbers with different base? For example binary to hex.
     [Show solution][1]
